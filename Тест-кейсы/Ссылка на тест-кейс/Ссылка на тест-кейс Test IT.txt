@@ -1,0 +1,3 @@
+Ссылка на тест-кейс Test IT
+
+https://team-wnbe.testit.software/projects/1/tests?isolatedSection=59fcc593-dee3-4223-9f79-59134fa107d3
