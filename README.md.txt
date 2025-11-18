@@ -1,7 +1,7 @@
-# [Sofi-Alis] - QA Engineer (Web Applications Testing)
+# Gerasimova Sofi-Alis - QA Engineer (Web Applications Testing)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sofideelesrtoh07@icloud.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@timeplanA)
+Email:sofideelesrtoh07@icloud.com
+Telegram: https://t.me/@timeplanA
 
 ## 👨‍💻 Специализация
 Тестировщик веб-приложений с глубоким пониманием UI/UX, кросс-браузерной совместимости и безопасности. 
